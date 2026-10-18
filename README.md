@@ -1,3 +1,7 @@
+hello me, use just k11 to build that keyboard. its designed to only mess with per layer LED config. It will reset all your via configuration, so just export and import after building.
+
+k11 config is at keyboards/keychron/k11_max/ansi_encoder/rgb/wileycotton/config.c
+
 # QMK Userspace
 
 This is a template repository which allows for an external set of QMK keymaps to be defined and compiled. This is useful for users who want to maintain their own keymaps without having to fork the main QMK repository.
